@@ -45,3 +45,15 @@ php spark serve
 Sekarang buka browser dengan alamat address http://localhost:8080/
 
 # Screenshoot | Demo on [Iuran-kas](https://noval.wiki/)
+
+* Home
+![home](public/home.png)
+
+* Warga
+![warga](public/warga.png)
+
+* Iuran
+![iuran kas](public/iuran.png)
+
+* Laporan kas
+![laporan](public/laporan.png)
